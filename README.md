@@ -1,4 +1,4 @@
-# 🔐 Cyberd QR Reader
+# Cyberd QR Reader
 
 Modern desktop QR scanner with built-in VirusTotal lookup.
 
