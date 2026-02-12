@@ -23,6 +23,9 @@ Cyberd QR Reader allows you to:
 - VirusTotal integration
 - Packaged Windows executable support
 
+
+<img width="777" height="849" alt="Screenshot 2026-02-12 101118" src="https://github.com/user-attachments/assets/da4d46f4-2645-424e-9cc0-cdb25d5b4137" />
+
 ---
 
 ## 📦 Installation
@@ -33,4 +36,6 @@ Clone the repository:
 git clone https://github.com/Dt1ger/cyberd-qr-reader.git
 cd cyberd-qr-reader
 
-<img width="777" height="849" alt="image" src="https://github.com/user-attachments/assets/3f6bc019-ea06-48ad-b853-edec3be24908" />
+
+
+
