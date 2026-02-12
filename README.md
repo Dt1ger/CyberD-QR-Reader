@@ -32,3 +32,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/Dt1ger/cyberd-qr-reader.git
 cd cyberd-qr-reader
+
+<img width="777" height="849" alt="image" src="https://github.com/user-attachments/assets/3f6bc019-ea06-48ad-b853-edec3be24908" />
